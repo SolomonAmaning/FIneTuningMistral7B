@@ -9,6 +9,6 @@ To ensure that the discharge summary output follows this structure, we needed to
 For this fine-tuning process, we used the "mts-dataset-clinical-dialogue-and-summary" available on HuggingFace.
 As the name suggests, this dataset summarizes important patient-doctor dialogues under headings including symptoms, medical history, family history, assessment, and investigations.
 
-After tuning, the language model was prompted to generate completions based on the provided prompt directions.
+After tuning, the language model was prompted to generate completions based on the different  prompts to assess the precision of the completion compared to the referenced input text.
 
 
