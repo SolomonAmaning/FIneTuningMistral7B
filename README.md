@@ -12,4 +12,4 @@ As the name suggests, this dataset summarizes important patient-doctor dialogues
 After tuning, the language model was prompted to generate completions based on the different  prompts to assess the precision of the completion compared to the referenced input text.
 I started from kaggle workpace and later shifted to google colab.
 That explains the reason of kaggle hub in the notebook.
-I also utilized wandb.ai for 
+I also utilized wandb.ai for monitoring my runs.
